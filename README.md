@@ -1,4 +1,6 @@
-# Meetability
+# upMeet
+(https://ricopella.github.io/upMeet/)
+
 
 ## Project Description
 ### UpMeet is a all-in-one search tool that allows developers to easily find meetups that match their availability and provides resources to prep them for the topics to be covered.
